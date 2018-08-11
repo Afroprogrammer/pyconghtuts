@@ -1,0 +1,3 @@
+title= pycon
+author=dev_mcroni
+orientation= portrait
